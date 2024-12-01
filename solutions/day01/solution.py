@@ -52,6 +52,3 @@ if __name__ == "__main__":
     similarity_score = similarity_score_calc(left_sorted, right_sorted)
     print(total_distance)
     print(similarity_score)
-
-    # print("Left column sorted:", left_sorted)
-    # print("Right column sorted:", right_sorted)
